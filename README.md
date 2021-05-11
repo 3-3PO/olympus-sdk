@@ -1,3 +1,3 @@
 # Olympus SDK
 
-Unofficial SDK for [Olympus DAO](https://olympusdao.finance) (OHM)
+Unofficial SDK for [Olympus DAO](https://olympusdao.finance) (OHM). Install with `pip install olympus-sdk`.
